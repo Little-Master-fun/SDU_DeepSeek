@@ -38,7 +38,7 @@ python sduDeepSeekInTerminal.py
 
 ## 示例
 
-![](p1.png)
-![](p2.png)
-![](p3.png)
-![](p4.png)
+![](screenshots/p1.png)
+![](screenshots/p2.png)
+![](screenshots/p3.png)
+![](screenshots/p4.png)
